@@ -1,3 +1,3 @@
 learnyounode
 ============
-This is my solution code for learnyounode lessons.
+This is my solution code for nodeschool lessons.
